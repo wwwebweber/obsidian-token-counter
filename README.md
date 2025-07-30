@@ -1,11 +1,11 @@
-# Obsidian Token Counter
+# Obsidian AI Token Counter
 
-This plugin counts tokens in your Obsidian notes. Useful for writers, researchers, and anyone who needs to track text length for AI, publishing, or other purposes.
+AI large language models process text using tokens, which are common sequences of characters found in a set of text. The models learn to understand the statistical relationships between these tokens, and excel at producing the next token in a sequence of tokens.
+This plugin shows the total count of tokens in your Obsidian note.
 
 ## Features
 - Counts tokens in the current note
 - Displays token count in the status bar
-- Supports multiple languages
 
 ## Installation
 1. Download and copy the plugin folder to your `.obsidian/plugins` directory.
