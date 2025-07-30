@@ -1,11 +1,10 @@
 {
-	"id": "sample-plugin",
-	"name": "Sample Plugin",
-	"version": "1.0.0",
-	"minAppVersion": "0.15.0",
-	"description": "Demonstrates some of the capabilities of the Obsidian API.",
-	"author": "Obsidian",
-	"authorUrl": "https://obsidian.md",
-	"fundingUrl": "https://obsidian.md/pricing",
-	"isDesktopOnly": false
+  "id": "token-counter",
+  "name": "Token Counter",
+  "version": "1.0.0",
+  "minAppVersion": "0.15.0",
+  "description": "Counts the number of tokens in the current note and displays them in the status bar.",
+  "author": "wwwebweber",
+  "repo": "https://github.com/wwwebweber/obsidian-token-counter",
+  "isDesktopOnly": true
 }
